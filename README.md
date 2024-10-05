@@ -1,5 +1,5 @@
 <p align="center">
-# 💫 About Me:
+💫 About Me:
 Second year UofT student pursuing a BS in Computer Science<br>I am enrolled in an internship program and am hoping to expand my skillset<br>Currently know basic web and app dev, and can code in over six languages<br>💬 Ask me about any of my past or current projects!
 </p>
 
