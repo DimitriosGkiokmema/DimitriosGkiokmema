@@ -1,6 +1,6 @@
 <p align="center">
 💫 About Me:
-Second year UofT student pursuing a BS in Computer Science<br>I am enrolled in an internship program and am hoping to expand my skillset<br>Currently know basic web and app dev, and can code in over six languages<br>💬 Ask me about any of my past or current projects!
+Computer Science Undergrad at UofT
 </p>
 
 ## 🌐 Socials:
@@ -13,9 +13,6 @@ Second year UofT student pursuing a BS in Computer Science<br>I am enrolled in a
 ![](https://github-readme-stats.vercel.app/api?username=DimitriosGkiokmema&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DimitriosGkiokmema&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DimitriosGkiokmema&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=DimitriosGkiokmema&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
